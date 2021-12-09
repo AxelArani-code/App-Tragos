@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tragos App</string>
+    <string name="search_no_results">No encontramos tragos</string>
+</resources>
