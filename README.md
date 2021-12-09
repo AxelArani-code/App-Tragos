@@ -23,11 +23,7 @@ This is a clean architecture app example built with
 | Main Screen Dark | Detail Dark |  Favs Dark |
 | ![4](screenshots/dark_1.png?raw=true) | ![5](screenshots/dark_2.png?raw=true) | ![6](screenshots/dark_3.png?raw=true) |
 
-Project purpose is architecture not UI, feel free to do a PR to change it
 
-# Support 😄
-
-If this repo helped you , you can join the [stargazers](https://github.com/gastsail/TragosApp/stargazers) for this repo ⭐
 
 
 
